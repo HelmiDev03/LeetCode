@@ -533,4 +533,8 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0937-online-stock-span) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
