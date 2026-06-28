@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0797-rabbits-in-forest](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
+| [0997-find-the-town-judge](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0997-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1293-three-consecutive-odds) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0768-partition-labels](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0997-find-the-town-judge](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0997-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -545,4 +547,8 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0185-department-top-three-salaries](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0262-trips-and-users) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
