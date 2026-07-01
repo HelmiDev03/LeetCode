@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0386-lexicographical-numbers](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -551,4 +553,9 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0997-find-the-town-judge) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+## Union-Find
+|  |
+| ------- |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 <!---LeetCode Topics End-->
