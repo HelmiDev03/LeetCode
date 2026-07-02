@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0386-lexicographical-numbers) |
+| [0684-redundant-connection](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0684-redundant-connection) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0684-redundant-connection) |
 | [0945-snakes-and-ladders](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -552,10 +554,12 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0684-redundant-connection) |
 | [0997-find-the-town-judge](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0997-find-the-town-judge) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0684-redundant-connection) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 <!---LeetCode Topics End-->
