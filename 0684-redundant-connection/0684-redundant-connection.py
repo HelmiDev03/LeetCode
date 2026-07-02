@@ -1,35 +1,28 @@
 from collections import defaultdict
-import copy 
 class Solution:
     def findRedundantConnection(self, edges):
-        def hasCycle (graph):
-            def dfs(node , parent):
-                visited[node]=1
-                for nei in graph[node]:
-                    if not visited[nei] :
-                        if dfs(nei,node):
-                            return True
-                    elif nei != parent :
-                        return True
-                return False        
 
-            n=len(edges)
-            visited=[0]*n    
-            for node in graph:
-                if not visited[node] and dfs(node,None):
-                    return True
+        def isThereAlreadyExistingPath(u,target):
+            if u==target:
+                return True
+            visited[u]=1
+            for nei in graph[u]:
+                if not visited[nei] : 
+                    if isThereAlreadyExistingPath(nei, target):
+                        return True
             return False    
 
 
+
+
+
+
         graph = defaultdict(list)  
-        for edge in edges :
-            graph[edge[0]-1].append(edge[1]-1)
-            graph[edge[1]-1].append(edge[0]-1)
-        ans=[]
-        for removedEdge in edges:
-            newgraph = copy.deepcopy(graph)
-            newgraph[removedEdge[0]-1].remove(removedEdge[1]-1)
-            newgraph[removedEdge[1]-1].remove(removedEdge[0]-1)
-            if not hasCycle(newgraph):
-                ans.append(removedEdge)
-        return ans[-1] 
+        n=len(edges)
+        visited=[0]*n
+        for u,v in edges :
+            if u-1 in graph and v-1 in graph  and isThereAlreadyExistingPath(u-1,v-1):
+                return [u,v]
+            graph[u-1].append(v-1)
+            graph[v-1].append(u-1)   
+            visited=[0]*n  
