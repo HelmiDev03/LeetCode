@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | [0368-largest-divisible-subset](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1500-count-largest-group) |
@@ -564,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview ! ( [My LeetCode 
 | ------- |
 | [0684-redundant-connection](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/0684-redundant-connection) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HelmiDev03/My-LeetCode-Submissions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
